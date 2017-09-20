@@ -1,0 +1,737 @@
+{"events": [
+    {
+        "date": "2017-10-01T00:30Z",
+        "uid": "s:40~l:46~e:400978749",
+        "competitions": [
+            {
+                "date": "2017-10-01T00:30Z",
+                "venue": {
+                    "address": {
+                        "city": "Oakland",
+                        "state": "CA"
+                    },
+                    "fullName": "ORACLE Arena",
+                    "indoor": false,
+                    "id": "2465"
+                },
+                "conferenceCompetition": false,
+                "notes": [],
+                "timeValid": true,
+                "geoBroadcasts": [],
+                "broadcasts": [],
+                "uid": "s:40~l:46~e:400978749~c:400978749",
+                "competitors": [
+                    {
+                        "uid": "s:40~l:46~t:9",
+                        "homeAway": "home",
+                        "score": "0",
+                        "id": "9",
+                        "team": {
+                            "alternateColor": "fdb927",
+                            "venue": {
+                                "id": "2465"
+                            },
+                            "color": "003da5",
+                            "displayName": "Golden State Warriors",
+                            "abbreviation": "GS",
+                            "isActive": true,
+                            "shortDisplayName": "Warriors",
+                            "uid": "s:40~l:46~t:9",
+                            "name": "Warriors",
+                            "logo": "http://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+                            "location": "Golden State",
+                            "links": [
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/_/name/gs/golden-state-warriors",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:9",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "roster",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/roster/_/name/gs/golden-state-warriors",
+                                    "text": "Roster",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stats",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/stats/_/name/gs/golden-state-warriors",
+                                    "text": "Statistics",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "schedule",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/schedule/_/name/gs",
+                                    "text": "Schedule",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "photos",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/photos/_/name/gs",
+                                    "text": "photos",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stadium",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/stadium/_/name/gs",
+                                    "text": "Stadium",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": true,
+                                    "rel": [
+                                        "shop",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.dickssportinggoods.com/category/index.jsp?categoryId=15528706",
+                                    "text": "Shop",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "scores",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:9&section=scores",
+                                    "text": "Scores",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "draftpicks",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/draft/results/team/_/team/gs/golden-state-warriors",
+                                    "text": "Draft Picks",
+                                    "isPremium": true
+                                }
+                            ],
+                            "id": "9"
+                        },
+                        "type": "team",
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:40~l:46~t:7",
+                        "homeAway": "away",
+                        "score": "0",
+                        "id": "7",
+                        "team": {
+                            "alternateColor": "fdb927",
+                            "venue": {
+                                "id": "892"
+                            },
+                            "color": "0860A8",
+                            "displayName": "Denver Nuggets",
+                            "abbreviation": "DEN",
+                            "isActive": true,
+                            "shortDisplayName": "Nuggets",
+                            "uid": "s:40~l:46~t:7",
+                            "name": "Nuggets",
+                            "logo": "http://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+                            "location": "Denver",
+                            "links": [
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/_/name/den/denver-nuggets",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:7",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "roster",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/roster/_/name/den/denver-nuggets",
+                                    "text": "Roster",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stats",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/stats/_/name/den/denver-nuggets",
+                                    "text": "Statistics",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "schedule",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/schedule/_/name/den",
+                                    "text": "Schedule",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "photos",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/photos/_/name/den",
+                                    "text": "photos",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stadium",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/stadium/_/name/den",
+                                    "text": "Stadium",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": true,
+                                    "rel": [
+                                        "shop",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.dickssportinggoods.com/category/index.jsp?categoryId=15528676",
+                                    "text": "Shop",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "scores",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:7&section=scores",
+                                    "text": "Scores",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "draftpicks",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/draft/results/team/_/team/den/denver-nuggets",
+                                    "text": "Draft Picks",
+                                    "isPremium": true
+                                }
+                            ],
+                            "id": "7"
+                        },
+                        "type": "team",
+                        "order": 1
+                    }
+                ],
+                "id": "400978749",
+                "neutralSite": false,
+                "attendance": 0,
+                "startDate": "2017-10-01T00:30Z",
+                "status": {
+                    "period": 0,
+                    "displayClock": "0:00",
+                    "clock": 0,
+                    "type": {
+                        "name": "STATUS_SCHEDULED",
+                        "description": "Scheduled",
+                        "id": "1",
+                        "state": "pre",
+                        "completed": false,
+                        "detail": "Sat, September 30th at 8:30 PM EDT",
+                        "shortDetail": "9/30 - 8:30 PM EDT"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2018,
+            "type": 1
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "language": "en",
+                "href": "http://www.espn.co.uk/nba/game?gameId=400978749",
+                "text": "Summary",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Conversation",
+                "rel": [
+                    "conversation",
+                    "desktop",
+                    "event"
+                ],
+                "language": "en-GB",
+                "href": "http://www.espn.com/nba/conversation?gameId=400978749",
+                "text": "Conversation",
+                "isPremium": false
+            }
+        ],
+        "id": "400978749",
+        "status": {
+            "period": 0,
+            "displayClock": "0:00",
+            "clock": 0,
+            "type": {
+                "name": "STATUS_SCHEDULED",
+                "description": "Scheduled",
+                "id": "1",
+                "state": "pre",
+                "completed": false,
+                "detail": "Sat, September 30th at 8:30 PM EDT",
+                "shortDetail": "9/30 - 8:30 PM EDT"
+            }
+        }
+    },
+    {
+        "date": "2017-10-01T02:00Z",
+        "uid": "s:40~l:46~e:400978678",
+        "competitions": [
+            {
+                "date": "2017-10-01T02:00Z",
+                "venue": {
+                    "address": {
+                        "city": "Anaheim",
+                        "state": "CA"
+                    },
+                    "fullName": "Honda Center",
+                    "indoor": false,
+                    "id": "1842"
+                },
+                "conferenceCompetition": false,
+                "notes": [],
+                "timeValid": true,
+                "geoBroadcasts": [],
+                "broadcasts": [],
+                "uid": "s:40~l:46~e:400978678~c:400978678",
+                "competitors": [
+                    {
+                        "uid": "s:40~l:46~t:13",
+                        "homeAway": "home",
+                        "score": "0",
+                        "id": "13",
+                        "team": {
+                            "alternateColor": "552582",
+                            "venue": {
+                                "id": "1841"
+                            },
+                            "color": "542582",
+                            "displayName": "Los Angeles Lakers",
+                            "abbreviation": "LAL",
+                            "isActive": true,
+                            "shortDisplayName": "Lakers",
+                            "uid": "s:40~l:46~t:13",
+                            "name": "Lakers",
+                            "logo": "http://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+                            "location": "Los Angeles",
+                            "links": [
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/_/name/lal/los-angeles-lakers",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:13",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "roster",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/roster/_/name/lal/los-angeles-lakers",
+                                    "text": "Roster",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stats",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/stats/_/name/lal/los-angeles-lakers",
+                                    "text": "Statistics",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "schedule",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/schedule/_/name/lal",
+                                    "text": "Schedule",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "photos",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/photos/_/name/lal",
+                                    "text": "photos",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stadium",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/stadium/_/name/lal",
+                                    "text": "Stadium",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": true,
+                                    "rel": [
+                                        "shop",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.dickssportinggoods.com/category/index.jsp?categoryId=15528756",
+                                    "text": "Shop",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "scores",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:13&section=scores",
+                                    "text": "Scores",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "draftpicks",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/draft/results/team/_/team/lal/los-angeles-lakers",
+                                    "text": "Draft Picks",
+                                    "isPremium": true
+                                }
+                            ],
+                            "id": "13"
+                        },
+                        "type": "team",
+                        "order": 0
+                    },
+                    {
+                        "uid": "s:40~l:46~t:16",
+                        "homeAway": "away",
+                        "score": "0",
+                        "id": "16",
+                        "team": {
+                            "alternateColor": "c4ced3",
+                            "venue": {
+                                "id": "2029"
+                            },
+                            "color": "0E3764",
+                            "displayName": "Minnesota Timberwolves",
+                            "abbreviation": "MIN",
+                            "isActive": true,
+                            "shortDisplayName": "Timberwolves",
+                            "uid": "s:40~l:46~t:16",
+                            "name": "Timberwolves",
+                            "logo": "http://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+                            "location": "Minnesota",
+                            "links": [
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/_/name/min/minnesota-timberwolves",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "clubhouse",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:16",
+                                    "text": "Clubhouse",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "roster",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/roster/_/name/min/minnesota-timberwolves",
+                                    "text": "Roster",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stats",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/team/stats/_/name/min/minnesota-timberwolves",
+                                    "text": "Statistics",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "schedule",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/schedule/_/name/min",
+                                    "text": "Schedule",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "photos",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/photos/_/name/min",
+                                    "text": "photos",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "stadium",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.co.uk/nba/team/stadium/_/name/min",
+                                    "text": "Stadium",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": true,
+                                    "rel": [
+                                        "shop",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.dickssportinggoods.com/category/index.jsp?categoryId=15528796",
+                                    "text": "Shop",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "scores",
+                                        "sportscenter",
+                                        "app",
+                                        "team"
+                                    ],
+                                    "href": "sportscenter://x-callback-url/showClubhouse?uid=s:40~l:46~t:16&section=scores",
+                                    "text": "Scores",
+                                    "isPremium": false
+                                },
+                                {
+                                    "isExternal": false,
+                                    "rel": [
+                                        "draftpicks",
+                                        "desktop",
+                                        "team"
+                                    ],
+                                    "href": "http://www.espn.com/nba/draft/results/team/_/team/min/minnesota-timberwolves",
+                                    "text": "Draft Picks",
+                                    "isPremium": true
+                                }
+                            ],
+                            "id": "16"
+                        },
+                        "type": "team",
+                        "order": 1
+                    }
+                ],
+                "id": "400978678",
+                "neutralSite": true,
+                "attendance": 0,
+                "startDate": "2017-10-01T02:00Z",
+                "status": {
+                    "period": 0,
+                    "displayClock": "0:00",
+                    "clock": 0,
+                    "type": {
+                        "name": "STATUS_SCHEDULED",
+                        "description": "Scheduled",
+                        "id": "1",
+                        "state": "pre",
+                        "completed": false,
+                        "detail": "Sat, September 30th at 10:00 PM EDT",
+                        "shortDetail": "9/30 - 10:00 PM EDT"
+                    }
+                }
+            }
+        ],
+        "season": {
+            "year": 2018,
+            "type": 1
+        },
+        "links": [
+            {
+                "isExternal": false,
+                "shortText": "Summary",
+                "rel": [
+                    "summary",
+                    "desktop",
+                    "event"
+                ],
+                "language": "en",
+                "href": "http://www.espn.co.uk/nba/game?gameId=400978678",
+                "text": "Summary",
+                "isPremium": false
+            },
+            {
+                "isExternal": false,
+                "shortText": "Conversation",
+                "rel": [
+                    "conversation",
+                    "desktop",
+                    "event"
+                ],
+                "language": "en-GB",
+                "href": "http://www.espn.com/nba/conversation?gameId=400978678",
+                "text": "Conversation",
+                "isPremium": false
+            }
+        ],
+        "id": "400978678",
+        "status": {
+            "period": 0,
+            "displayClock": "0:00",
+            "clock": 0,
+            "type": {
+                "name": "STATUS_SCHEDULED",
+                "description": "Scheduled",
+                "id": "1",
+                "state": "pre",
+                "completed": false,
+                "detail": "Sat, September 30th at 10:00 PM EDT",
+                "shortDetail": "9/30 - 10:00 PM EDT"
+            }
+        }
+    }
+]
+}
