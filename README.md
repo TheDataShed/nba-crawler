@@ -10,10 +10,10 @@ Acquire fixtures and results for upcoming season and historic seasons.
 
 Call the ESPN API for all future dates not yet processed
 Model Python classes for:
-    1. Season
-    2. SeasonDates 
-    3. Games
-    4. Teams
+    - Season
+    - SeasonDates 
+    - Games
+    - Teams
 
 Deserialise JSON response for each game to the above objects
 
